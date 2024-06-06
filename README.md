@@ -24,5 +24,4 @@ Once trained, the CycleGAN model can be used to translate traditional local art 
 - **Relevance to Contemporary Themes**: The translated images enable local art forms to address contemporary issues such as biodiversity, urban life, and environmental sustainability, making them more relevant to modern audiences.
 - **Support for Local Artists**: By promoting the use of local art forms in visual communication, the model contributes to the livelihoods of local artists and artisans, fostering economic sustainability within communities.
 
-## References
-- [Original CycleGAN Paper](https://arxiv.org/)
+
